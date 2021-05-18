@@ -7,7 +7,7 @@ public class CheckPermutation {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		System.out.println(permutation("bac",  "acb"));
+		System.out.println(permutation("cab","acb"));
 	}
 
 	private static boolean permutation(String str1, String str2) {
