@@ -31,7 +31,7 @@ public class BubbleSort {
 	            }  
 	        }  
 	    }  
-	    System.out.println("Printing Sorted List ...");  
+	    System.out.println("Bubble Sorted List ...");  
 	    for(int i=0;i<10;i++)  
 	    {  
 	        System.out.println(a[i]);  
